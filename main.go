@@ -17,7 +17,7 @@ var (
 )
 
 func init() {
-	flag.StringVar(&ip, "ip", "", "Target Ip")
+	flag.StringVar(&ip, "ip", "", "Target Ip 10.0.0.1, 10.0.0.5-10, 192.168.1.*, 192.168.10.0/24")
 	flag.StringVar(&port, "p", "21,22,80,81,135,139,443,445,1433,3306,5432,6379,7001,8000,8080,8089,9000,9200,11211,27017", "Scan Ports")
 	flag.IntVar(&timeout, "t", 3, "TimeOut Of Tcp Connect")
 	flag.IntVar(&num, "n", 500, "Number of concurrent scans")

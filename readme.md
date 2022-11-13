@@ -1,5 +1,7 @@
 # Port Scan
 
+![portScan](https://socialify.git.ci/captain686/portScan/image?font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark)
+
 ## ☃️ Use
 
 ```bash
@@ -16,5 +18,4 @@ Usage :
 
 ## 😎Speed
 
-![](.\img\ScanTest.png)
-
+![](https://raw.githubusercontent.com/captain686/portScan/master/img/ScanTest.png)

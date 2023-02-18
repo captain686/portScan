@@ -1,6 +1,6 @@
 module github.com/captain686/portScan
 
-go 1.18
+go 1.20
 
 require github.com/malfunkt/iprange v0.9.0
 
